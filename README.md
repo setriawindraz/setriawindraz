@@ -1,4 +1,4 @@
-### iset | Web3 QA
+### iset - Web3 QA
 
 Independent Web3 QA Tester based in Batam, Indonesia. 
 I focus on smart contract testing via terminal execution. 
